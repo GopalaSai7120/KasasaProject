@@ -35,14 +35,14 @@ Basic Project Structure
                   |------------service
  
         
+
 Dependencies:
 1. Spring Boot
-2. Spring REST API
-3. Spring Data JPA
-4. MySQL Connector
-5. Spring Hibernate
-6. Mockito
-7. Junit
+2. Spring Data JPA
+3. MySQL Connector
+4. Spring Hibernate
+5. Mockito
+6. Junit
 
 Testing All endpoints on Postman
 
